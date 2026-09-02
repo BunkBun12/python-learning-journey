@@ -9,5 +9,7 @@ So far, I have built:
 - 📋 **CLI Task Manager** — Add, complete, view, and delete tasks.
 - 🔐 **CLI Password Manager** — Add, search, update, view, and delete passwords.
 - CLI BlackJack --- can place bets !
+- matrix calculator
+- 
 more comming!
 
